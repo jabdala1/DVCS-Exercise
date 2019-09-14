@@ -5,8 +5,9 @@
     <siteMapNode url="~/About.aspx" title="About"  description="" />
     <siteMapNode url="~/Contact.aspx" title="Contact"  description="" />
     <!-- DropDown Menu -->
-    <siteMapNode url="" title="Exercise" description="">
+    <siteMapNode url="" title="Pages" description="">
       <siteMapNode url="~/Pages/Ipsum.aspx" title="Ipsum"  description="" />
+      <siteMapNode url="~/Pages/MemeDream.aspx" title="Meme Dream" description="" />
     </siteMapNode>
   </siteMapNode>
 </siteMap>
