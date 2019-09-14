@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MemeDream.aspx.cs" Inherits="DVCS_Website.Pages.MemeDream" %>
+﻿<%@ Page Title="Me Cooking" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="MemeDream.aspx.cs" Inherits="DVCS_Website.Pages.MemeDream" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Exhibit #1</h1>

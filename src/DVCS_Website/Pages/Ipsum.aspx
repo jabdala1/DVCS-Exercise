@@ -1,4 +1,4 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ipsum.aspx.cs" Inherits="DVCS_Website.Pages.MemeMachine" %>
+﻿<%@ Page Title="Ipsum Lorem" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Ipsum.aspx.cs" Inherits="DVCS_Website.Pages.MemeMachine" %>
 
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
     <h1>Ipsum Lorem #1</h1>
