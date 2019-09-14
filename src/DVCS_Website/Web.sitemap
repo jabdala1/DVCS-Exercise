@@ -7,7 +7,8 @@
     <!-- DropDown Menu -->
     <siteMapNode url="" title="Pages" description="">
       <siteMapNode url="~/Pages/Ipsum.aspx" title="Ipsum"  description="" />
-      <siteMapNode url="~/Pages/MemeDream.aspx" title="Meme Dream" description="" />
+      <siteMapNode url="~/Pages/MemeDream.aspx" title="Exhibit #1" description="" />
+      <siteMapNode url="~/Pages/MemeDream2.aspx" title="Exhibit #2" description="" />
     </siteMapNode>
   </siteMapNode>
 </siteMap>
