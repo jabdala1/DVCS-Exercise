@@ -193,7 +193,9 @@
     <Content Include="Content\bootstrap-theme.min.css.map" />
     <Content Include="Content\bootstrap-theme.css.map" />
     <Content Include="Account\Web.config" />
+    <Content Include="Images\Cooking-Memes-1.png" />
     <Content Include="Pages\Ipsum.aspx" />
+    <Content Include="Pages\MemeDream.aspx" />
     <Content Include="Scripts\bootstrap.js" />
     <Content Include="Scripts\bootstrap.min.js" />
     <None Include="Scripts\jquery-3.4.1.intellisense.js" />
@@ -371,6 +373,13 @@
     </Compile>
     <Compile Include="Pages\Ipsum.aspx.designer.cs">
       <DependentUpon>Ipsum.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Pages\MemeDream.aspx.cs">
+      <DependentUpon>MemeDream.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Pages\MemeDream.aspx.designer.cs">
+      <DependentUpon>MemeDream.aspx</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Site.Master.cs">
